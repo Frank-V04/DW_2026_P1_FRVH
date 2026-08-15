@@ -36,8 +36,8 @@ Pasos
 
 
 1. Clonar el repositorio
-git clone https://github.com/mayen5/036-DW-2026-P1.git
-cd 036-DW-2026-P1
+git clone https://github.com/Frank-V04/DW_2026_P1_FRVH
+cd DW_2026_P1_FRVH
 
 2. Instalar dependencias
 npm install
