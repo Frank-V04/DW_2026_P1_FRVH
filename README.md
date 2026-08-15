@@ -1,4 +1,4 @@
-<img width="612" height="245" alt="image" src="https://github.com/user-attachments/assets/9b5bfa53-df5f-4467-90eb-febcb2418c65" />036-DW-2026-P1 — Mini RRHH
+036-DW-2026-P1 — Mini RRHH
 
 Aplicación web de gestión de recursos humanos desarrollada con React, TypeScript y Vite. Incluye módulo de Empleados y módulo de Departamentos.
 
