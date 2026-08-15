@@ -1,4 +1,4 @@
-036-DW-2026-P1 — Mini RRHH
+<img width="612" height="245" alt="image" src="https://github.com/user-attachments/assets/9b5bfa53-df5f-4467-90eb-febcb2418c65" />036-DW-2026-P1 — Mini RRHH
 
 Aplicación web de gestión de recursos humanos desarrollada con React, TypeScript y Vite. Incluye módulo de Empleados y módulo de Departamentos.
 
@@ -61,7 +61,11 @@ dw-2026-p1-frvh.vercel.app
 
 Capturas de pantalla
 
-
+<img width="1390" height="903" alt="image" src="https://github.com/user-attachments/assets/3f71f597-77b2-4b16-805f-b36fdfdf47da" />
+<img width="1396" height="892" alt="image" src="https://github.com/user-attachments/assets/8abcd9d2-b881-4e71-8488-8a24f7834f8a" />
+<img width="1358" height="750" alt="image" src="https://github.com/user-attachments/assets/c87e3e0e-efb6-43db-b414-5ffbe051f985" />
+<img width="1388" height="836" alt="image" src="https://github.com/user-attachments/assets/d70d9f13-8158-47a2-b9da-e01098e72c3b" />
+<img width="612" height="245" alt="image" src="https://github.com/user-attachments/assets/3047c7d1-f112-44e1-bf41-932d1e490736" />
 
 Autor
 
